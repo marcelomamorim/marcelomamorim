@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on CJR (Empresa Júnior de Computação da UnB)
+- 🔭 I’m currently working at Zup Innovation
 
 - 🌱 I’m currently learning => Java, Ruby and C#
 

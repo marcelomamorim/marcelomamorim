@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at Zup Innovation
 
-- 🌱 I’m currently learning => Java, Ruby and C#
+- 🌱 I’m currently learning => Java
 
 - 👯 I’m looking to collaborate on OpenSource projects
 
@@ -10,6 +10,6 @@
 
 - 🎓 I study Computer Science at the University of Brasília (UnB) 
 
-- 🎯 I'm a backend developer actually using Spring, Ruby on Rails and .Net Core to develop APIs
+- 🎯 I'm a backend developer actually using Spring to develop APIs
 
-- 💻 One curiosity about me: I love studying Cybersecurity (with focus on Web Application Pentest).
+- 💻 One curiosity about me: I love studying Cybersecurity

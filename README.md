@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at Zup Innovation
 
-- 🌱 I’m currently learning => Java
+- 🌱 I’m currently learning => Java / Kotlin
 
 - 👯 I’m looking to collaborate on OpenSource projects
 

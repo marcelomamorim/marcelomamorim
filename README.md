@@ -12,4 +12,3 @@
 
 - 🎯 I'm a backend developer actually using Spring to develop APIs
 
-- 💻 One curiosity about me: I love studying Cybersecurity

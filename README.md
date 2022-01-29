@@ -5,6 +5,7 @@
 <div> 
   
   <a href="https://www.linkedin.com/in/marcelomedeirosamorim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 
 </div>
 
@@ -28,6 +29,8 @@
 
 - 📫 How to reach me: marceloamorim.webdev@gmail.com
 
+- 🌱 Medium: https://medium.com/@marceloamorim.backend
+
 - 🎓 I study Computer Science at the University of Brasília (UnB) 
 
 - 🎯 I'm a backend developer actually using Kotlin + Spring to develop APIs
@@ -42,3 +45,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloAmorim25&layout=compact&langs_count=8&theme=dark"/>
 </div>
   
+  
+ ![Snake animation](https://github.com/MarceloAmorim25/MarceloAmorim25/blob/output/github-contribution-grid-snake.svg)

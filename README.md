@@ -28,6 +28,8 @@
 
 - 🌱 Medium: https://medium.com/@marceloamorim.backend
 
+- Stackoverflow: https://pt.stackoverflow.com/users/276863/marcelo-amorim
+
 - 🎓 I study Computer Science at the University of Brasília (UnB) 
 
 - 🎯 I'm a backend developer actually using Kotlin + Spring to develop APIs

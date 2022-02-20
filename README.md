@@ -5,9 +5,7 @@
 <div> 
   
   <a href="https://www.linkedin.com/in/marcelomedeirosamorim/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
   <a href="https://medium.com/@marceloamorim.backend" target="_blank"><img align="center" src="https://img.shields.io/badge/-Medium-123?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-  
   <a href="https://pt.stackoverflow.com/users/276863/marcelo-amorim" target="_blank"><img align="center" src="https://img.shields.io/badge/-StackOverFlow-ffff99?style=for-the-badge&logo=stackoverflow&logoColor=black" target="_blank"></a>
   
 </div>

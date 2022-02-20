@@ -18,7 +18,7 @@
 </br>
 
 
-- 🔭 I’m currently working at Zup Innovation
+- 🧑‍💼 I’m currently working at Zup Innovation
 
 - 🌱 I’m currently learning => Java | Kotlin | AWS
 
@@ -26,9 +26,9 @@
 
 - 📫 How to reach me: marceloamorim.webdev@gmail.com
 
-- 🌱 Medium: https://medium.com/@marceloamorim.backend
+- ✍️ Medium: https://medium.com/@marceloamorim.backend
 
-- Stackoverflow: https://pt.stackoverflow.com/users/276863/marcelo-amorim
+- 👨‍🎓 Stackoverflow: https://pt.stackoverflow.com/users/276863/marcelo-amorim
 
 - 🎓 I study Computer Science at the University of Brasília (UnB) 
 

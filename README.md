@@ -21,7 +21,7 @@
 
 - 🧑‍💼 I’m currently working at Zup Innovation
 
-- 🌱 I’m currently learning => Java | Kotlin | AWS
+- 🌱 I’m currently learning => Java | Kotlin | AWS | Terraform
 
 - 👯 I’m looking to collaborate on OpenSource projects
 

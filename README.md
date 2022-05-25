@@ -31,14 +31,3 @@
 
 - 🎯 I'm a backend developer actually using Kotlin + Spring to develop APIs
 
-
-</br>
-</br>
-
-<div>
-  <a href="https://github.com/MarceloAmorim25">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloAmorim25&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloAmorim25&layout=compact&langs_count=8&theme=dark"/>
-</div>
-  
-

@@ -19,7 +19,7 @@
 </br>
 
 
-- 🧑‍💼 I’m currently working at Zup Innovation
+- 🧑‍💼 I’m currently working at GFT
 
 - 🌱 I’m currently learning => Java | Kotlin | AWS | Terraform
 

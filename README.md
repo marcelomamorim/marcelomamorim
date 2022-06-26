@@ -21,7 +21,7 @@
 
 - 🧑‍💼 I’m currently working at GFT
 
-- 🌱 I’m currently learning => Java | Kotlin | AWS | Terraform
+- 🌱 I’m currently learning => Java | Spring | AWS | Terraform
 
 - 👯 I’m looking to collaborate on OpenSource projects
 

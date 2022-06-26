@@ -26,10 +26,10 @@
 - 👯 I’m looking to collaborate on OpenSource projects
 
 - 📫 How to reach me: marceloamorim.webdev@gmail.com
-
+  '
 - 🎓 I study Computer Science at the University of Brasília (UnB) 
 
-- 🎯 I'm a backend developer actually using Kotlin + Spring to develop APIs
+- 🎯 I'm a backend developer actually using Java + Spring to develop APIs
 
 - 🌱 My website: https://marcelomamorim.github.io/
 

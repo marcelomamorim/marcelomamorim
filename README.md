@@ -47,11 +47,6 @@ I’m a **Computer Science student** at the **University of Brasília (UnB)**, a
 - 🎓 **Studying** Computer Science at the University of Brasília (UnB)
 - 🎯 **Currently working as** a backend developer, focusing on **APIs with Java + Spring**
 - 🌐 **Check out my website**: [marcelomamorim.github.io](https://marcelomamorim.github.io/)
-
-
-<p align="left">
-  <img alt="Marcelo Amorim's Activity Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcelomamorim&theme=onedark&hide_border=true" height="232px"/>
-</p
   
 ---
 

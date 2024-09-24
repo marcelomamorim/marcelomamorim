@@ -9,26 +9,27 @@ I’m a **Computer Science student** at the **University of Brasília (UnB)**, a
 <div style="display: inline_block" height="70" width="150">
   
   <a href="https://www.linkedin.com/in/marcelomedeirosamorim/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-%23181717.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://medium.com/@marceloamorim.backend" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" style="margin-right:10px;">
+    <img align="center" src="https://img.shields.io/badge/Medium-%23181717.svg?style=for-the-badge&logo=medium&logoColor=white" style="margin-right:10px;">
   </a>
   <a href="https://dev.to/marcelomamorim" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" style="margin-right:10px;">
+    <img align="center" src="https://img.shields.io/badge/Dev.to-%23181717.svg?style=for-the-badge&logo=dev.to&logoColor=white" style="margin-right:10px;">
   </a>
   <a href="https://hashnode.com/@marceloamorim" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" style="margin-right:10px;">
+    <img align="center" src="https://img.shields.io/badge/Hashnode-%23181717.svg?style=for-the-badge&logo=hashnode&logoColor=white" style="margin-right:10px;">
   </a>
   <a href="https://pt.stackoverflow.com/users/276863/marcelo-amorim" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" style="margin-right:10px;">
+    <img align="center" src="https://img.shields.io/badge/StackOverflow-%23181717.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" style="margin-right:10px;">
   </a>
   <a href="https://www.credly.com/users/marcelo-medeiros-amorim" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Credly-FF6F00?style=for-the-badge&logo=credly&logoColor=white" style="margin-right:10px;">
+    <img align="center" src="https://img.shields.io/badge/Credly-%23181717.svg?style=for-the-badge&logo=credly&logoColor=white" style="margin-right:10px;">
   </a>
 </div>
 
 ---
+
 
 ### About me
 

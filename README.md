@@ -6,15 +6,6 @@ I’m a **Computer Science student** at the **University of Brasília (UnB)**, a
 
 ---
 
-### Overview
-
-<p align="left">
-  <img alt="Marcelo Amorim's Activity Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcelomamorim&theme=onedark&hide_border=true" height="232px"/>
-</p>
-
-
----
-
 <div style="display: inline_block" height="70" width="150">
   
   <a href="https://www.linkedin.com/in/marcelomedeirosamorim/" target="_blank">
@@ -39,8 +30,6 @@ I’m a **Computer Science student** at the **University of Brasília (UnB)**, a
 
 ---
 
-
-
 ### About me
 
 <div style="display: inline_block"><br>
@@ -59,6 +48,11 @@ I’m a **Computer Science student** at the **University of Brasília (UnB)**, a
 - 🎯 **Currently working as** a backend developer, focusing on **APIs with Java + Spring**
 - 🌐 **Check out my website**: [marcelomamorim.github.io](https://marcelomamorim.github.io/)
 
+
+<p align="left">
+  <img alt="Marcelo Amorim's Activity Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcelomamorim&theme=onedark&hide_border=true" height="232px"/>
+</p
+  
 ---
 
 ### 🏆 AWS Certifications

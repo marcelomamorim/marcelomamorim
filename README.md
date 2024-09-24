@@ -6,8 +6,6 @@ I’m a **Computer Science student** at the **University of Brasília (UnB)**, a
 
 ---
 
-</br>
-
 <div style="display: inline_block" height="70" width="150">
   
   <a href="https://www.linkedin.com/in/marcelomedeirosamorim/" target="_blank">
@@ -30,11 +28,9 @@ I’m a **Computer Science student** at the **University of Brasília (UnB)**, a
   </a>
 </div>
 
-</br>
-
 ---
 
-### 🌐 About me
+### About me
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -53,8 +49,6 @@ I’m a **Computer Science student** at the **University of Brasília (UnB)**, a
 - 🌐 **Check out my website**: [marcelomamorim.github.io](https://marcelomamorim.github.io/)
 
 ---
-
-</br>
 
 ### 🏆 AWS Certifications
 
@@ -76,16 +70,12 @@ Here are my AWS Certifications:
   </tr>
 </table>
 
-</br>
-
 ---
-
-</br>
 
 ### 📊 GitHub Activity
 
 <p align="left">
-  <img alt="Marcelo Amorim's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=marcelomamorim&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
+  <img alt="Marcelo Amorim's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=marcelomamorim&show_icons=true&theme=onedark&hide_border=true" height="160px"/>
   <img alt="Marcelo Amorim's Streak Stats" src="https://streak-stats.demolab.com/?user=marcelomamorim&theme=onedark&hide_border=true" height="160px"/>
 </p>
 
@@ -93,7 +83,17 @@ Here are my AWS Certifications:
   <img alt="Marcelo Amorim's Activity Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcelomamorim&theme=onedark&hide_border=true" height="232px"/>
 </p>
 
-</br>
+---
+
+### 🔗 References
+
+This README was inspired by and uses components from the following projects:
+
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- [GitHub Readme Streak Stats](https://github.com/denvercoder1/github-readme-streak-stats)
+- [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+- [Shields.io](https://shields.io/) for badges
+- [Devicon](https://devicon.dev/) for technology icons
 
 ---
 

@@ -34,7 +34,7 @@ I’m a **Computer Science student** at the **University of Brasília (UnB)**, a
 
 ---
 
-## 🏆 AWS Certifications
+### 🏆 AWS Certifications
 
 Here are my AWS Certifications:
 

@@ -76,15 +76,36 @@ Here are my AWS Certifications:
 ### 📊 GitHub Activity
 
 <p align="left">
-  <img alt="Marcelo Amorim's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=marcelomamorim&show_icons=true&theme=onedark&hide_border=true" height="160px"/>
-  <img alt="Marcelo Amorim's Streak Stats" src="https://streak-stats.demolab.com/?user=marcelomamorim&theme=onedark&hide_border=true" height="160px"/>
+  <img alt="Marcelo Amorim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marcelomamorim&show_icons=true&theme=onedark&hide_border=true" height="160px"/>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomamorim&layout=compact&theme=onedark&hide_border=true" height="160px"/>
 </p>
 
 <p align="left">
-  <img alt="Marcelo Amorim's Activity Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcelomamorim&theme=onedark&hide_border=true" height="232px"/>
+  <img alt="Streak Stats" src="https://streak-stats.demolab.com/?user=marcelomamorim&theme=onedark&hide_border=true" height="160px"/>
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=marcelomamorim&theme=onedark&no-frame=true&margin-w=5&column=4" height="160px"/>
+</p>
+
+<p align="left">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=marcelomamorim&theme=onedark&hide_border=true" height="200px"/>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=marcelomamorim&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 ---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [AWS Certified Solutions Architect Associate: Design de arquiteturas seguras - Parte 1]([https://medium.com/@marceloamorim.backend/understanding-java-streams-abc123](https://dev.to/marcelomamorim/aws-certified-solutions-architect-associate-design-de-arquiteturas-seguras-parte-1-33je))
+- [Minha Jornada até as Certificações AWS: Dicas e Recursos](https://medium.com/@marceloamorim.backend/minha-jornada-até-as-certificações-aws-dicas-e-recursos-4136b48284a1)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### 🔗 References
 

@@ -1,6 +1,6 @@
 # Hello there! 👋 Welcome to my GitHub profile!
 
-I'm **Marcelo Medeiros Amorim**, a passionate backend developer with a strong foundation in **Java**, **Spring**, and **AWS**. I’m currently exploring the world of cloud computing and infrastructure as code with **Terraform**, while continually striving to enhance my development skills.
+I'm **Marcelo Amorim**, a passionate backend developer with a strong foundation in **Java**, **Spring**, and **AWS**. I’m currently exploring the world of cloud computing and infrastructure as code with **Terraform**, while continually striving to enhance my development skills.
 
 I’m a **Computer Science student** at the **University of Brasília (UnB)**, and I love working on **Open Source projects** and collaborating with like-minded developers!
 

@@ -4,8 +4,6 @@ I'm **Marcelo Amorim**, a passionate backend developer with a strong foundation 
 
 I’m a **Computer Science student** at the **University of Brasília (UnB)**, and I love working on **Open Source projects** and collaborating with like-minded developers!
 
-</br>
-
 ---
 
 </br>
@@ -36,8 +34,6 @@ I’m a **Computer Science student** at the **University of Brasília (UnB)**, a
 
 ---
 
-</br>
-
 ### 🌐 About me
 
 <div style="display: inline_block"><br>
@@ -55,8 +51,6 @@ I’m a **Computer Science student** at the **University of Brasília (UnB)**, a
 - 🎓 **Studying** Computer Science at the University of Brasília (UnB)
 - 🎯 **Currently working as** a backend developer, focusing on **APIs with Java + Spring**
 - 🌐 **Check out my website**: [marcelomamorim.github.io](https://marcelomamorim.github.io/)
-
-</br>
 
 ---
 

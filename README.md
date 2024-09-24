@@ -64,6 +64,7 @@ Here are my AWS Certifications:
 ---
 
 </br>
+
 ### 🌐 About me
 
 <div style="display: inline_block"><br>

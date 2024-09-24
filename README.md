@@ -81,16 +81,7 @@ Here are my AWS Certifications:
 </p>
 
 <p align="left">
-  <img alt="Streak Stats" src="https://streak-stats.demolab.com/?user=marcelomamorim&theme=onedark&hide_border=true" height="160px"/>
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=marcelomamorim&theme=onedark&no-frame=true&margin-w=5&column=4" height="160px"/>
-</p>
-
-<p align="left">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=marcelomamorim&theme=onedark&hide_border=true" height="200px"/>
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=marcelomamorim&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img alt="Marcelo Amorim's Activity Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcelomamorim&theme=onedark&hide_border=true" height="232px"/>
 </p>
 
 ---

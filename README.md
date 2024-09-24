@@ -38,14 +38,21 @@ I’m a **Computer Science student** at the **University of Brasília (UnB)**, a
 
 Here are my AWS Certifications:
 
-- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/d002f657-9188-4585-9b42-430506f153cc)
-- [AWS Certified Developer – Associate](https://www.credly.com/badges/002fb138-1fa6-4c98-82df-da360772c2a9)
-- [AWS Certified SysOps Administrator – Associate](https://www.credly.com/badges/d76e6fca-8187-4727-aed3-91aaade56668)
-- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/93b6e5a0-fa86-41ed-a9b8-5422dc81f6cd)
-- [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/c1c9dfcc-8fb1-4a8b-beaf-747f1cdff5f3)
-- [AWS Certified DevOps Engineer – Professional](https://www.credly.com/badges/3abe3eee-c361-4114-9c85-62ffdce5db13)
-- [AWS Certified Security – Specialty](https://www.credly.com/badges/2346511d-29f0-432a-8b82-59d59db876c6)
-- [AWS Certified Advanced Networking – Specialty](https://www.credly.com/badges/55346236-0df0-4428-84de-b7bc1a69e6a0)
+<table align="center">
+  <th></th>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/d002f657-9188-4585-9b42-430506f153cc"><img src="https://images.credly.com/size/340x340/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" alt="AWS Certified Solutions Architect – Associate" align="left" width="100px"></a>
+      <a href="https://www.credly.com/badges/002fb138-1fa6-4c98-82df-da360772c2a9"><img src="https://images.credly.com/size/340x340/images/2e8f6f5b-a6dd-41b2-8b71-6e4f2a8e06b3/AWS-Developer-Associate-2020.png" alt="AWS Certified Developer – Associate" align="left" width="100px"></a>
+      <a href="https://www.credly.com/badges/d76e6fca-8187-4727-aed3-91aaade56668"><img src="https://images.credly.com/size/340x340/images/97015f87-67a9-4ca7-9c4c-3497c3a2e244/AWS-SysOpAdmin-Associate-2020.png" alt="AWS Certified SysOps Administrator – Associate" align="left" width="100px"></a>
+      <a href="https://www.credly.com/badges/93b6e5a0-fa86-41ed-a9b8-5422dc81f6cd"><img src="https://images.credly.com/size/340x340/images/68435468-2d40-4d96-94df-33115d87f7b6/AWS-CloudPractitioner.png" alt="AWS Certified Cloud Practitioner" align="left" width="100px"></a>
+      <a href="https://www.credly.com/badges/c1c9dfcc-8fb1-4a8b-beaf-747f1cdff5f3"><img src="https://images.credly.com/size/340x340/images/8e2f08b2-8e68-4e9d-9dbf-4028c1b9797a/AWS-SolArchitect-Professional-2020.png" alt="AWS Certified Solutions Architect – Professional" align="left" width="100px"></a>
+      <a href="https://www.credly.com/badges/3abe3eee-c361-4114-9c85-62ffdce5db13"><img src="https://images.credly.com/size/340x340/images/4c6f4c38-2805-4e3d-95c7-9e2490cff837/AWS-DevOpsEngineer-Professional-2020.png" alt="AWS Certified DevOps Engineer – Professional" align="left" width="100px"></a>
+      <a href="https://www.credly.com/badges/2346511d-29f0-432a-8b82-59d59db876c6"><img src="https://images.credly.com/size/340x340/images/c6b2e8d4-23dc-4194-90aa-9b73523e52a7/AWS-Security-Specialty.png" alt="AWS Certified Security – Specialty" align="left" width="100px"></a>
+      <a href="https://www.credly.com/badges/55346236-0df0-4428-84de-b7bc1a69e6a0"><img src="https://images.credly.com/size/340x340/images/486bfae2-5c50-4211-9fd5-69ada930cace/AWS-AdvancedNetworking-Specialty-2020.png" alt="AWS Certified Advanced Networking – Specialty" align="left" width="100px"></a>
+    </td>
+  </tr>
+</table>
 
 ---
 

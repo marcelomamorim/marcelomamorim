@@ -40,7 +40,7 @@ Here are my AWS Certifications:
 
 ---
 
-</br>
+### 🌐 About me
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">

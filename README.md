@@ -6,6 +6,14 @@ I’m a **Computer Science student** at the **University of Brasília (UnB)**, a
 
 ---
 
+### Github Contributions
+
+<p align="left">
+  <img alt="Marcelo Amorim's Activity Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcelomamorim&theme=onedark&hide_border=true" height="232px"/>
+</p>
+
+---
+
 <div style="display: inline_block" height="70" width="150">
   
   <a href="https://www.linkedin.com/in/marcelomedeirosamorim/" target="_blank">
@@ -78,10 +86,6 @@ Here are my AWS Certifications:
 <p align="left">
   <img alt="Marcelo Amorim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marcelomamorim&show_icons=true&theme=onedark&hide_border=true" height="160px"/>
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomamorim&layout=compact&theme=onedark&hide_border=true" height="160px"/>
-</p>
-
-<p align="left">
-  <img alt="Marcelo Amorim's Activity Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcelomamorim&theme=onedark&hide_border=true" height="232px"/>
 </p>
 
 ---

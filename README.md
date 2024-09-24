@@ -60,7 +60,9 @@ Here are my AWS Certifications:
 </table>
 
 </br>
+
 ---
+
 </br>
 ### 🌐 About me
 
@@ -79,7 +81,9 @@ Here are my AWS Certifications:
 - 🌐 **Check out my website**: [marcelomamorim.github.io](https://marcelomamorim.github.io/)
 
 </br>
+
 ---
+
 </br>
 
 ### 📊 GitHub Activity
@@ -94,6 +98,7 @@ Here are my AWS Certifications:
 </p>
 
 </br>
+
 ---
 
 Feel free to explore my repositories and connect with me!

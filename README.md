@@ -6,6 +6,8 @@ I’m a **Computer Science student** at the **University of Brasília (UnB)**, a
 
 </br>
 
+---
+
 <div style="display: inline_block" height="70" width="150">
   
   <a href="https://www.linkedin.com/in/marcelomedeirosamorim/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -13,6 +15,8 @@ I’m a **Computer Science student** at the **University of Brasília (UnB)**, a
   <a href="https://pt.stackoverflow.com/users/276863/marcelo-amorim" target="_blank"><img align="center" src="https://img.shields.io/badge/-StackOverflow-ffff99?style=for-the-badge&logo=stackoverflow&logoColor=black" target="_blank" style="margin-right:100px;"></a>
   <a href="https://www.credly.com/users/marcelo-medeiros-amorim" target="_blank"><img align="center" src="https://img.shields.io/badge/-Credly-ff6f00?style=for-the-badge&logo=credly&logoColor=white" target="_blank" style="margin-right:100px;"></a>
 </div>
+
+---
 
 </br>
 
@@ -22,15 +26,6 @@ I’m a **Computer Science student** at the **University of Brasília (UnB)**, a
   <img align="center" alt="AWS" height="30" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img align="center" alt="Terraform" height="30" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
 </div>
-
-</br>
-
-- 🌱 **I’m currently learning**: Java | Spring | AWS | Terraform
-- 👯 **Looking to collaborate** on Open Source projects
-- 📫 **Reach me at**: marceloamorim.webdev@gmail.com
-- 🎓 **Studying** Computer Science at the University of Brasília (UnB)
-- 🎯 **Currently working as** a backend developer, focusing on **APIs with Java + Spring**
-- 🌐 **Check out my website**: [marcelomamorim.github.io](https://marcelomamorim.github.io/)
 
 ---
 
@@ -53,6 +48,17 @@ Here are my AWS Certifications:
     </td>
   </tr>
 </table>
+
+---
+
+</br>
+
+- 🌱 **I’m currently learning**: Java | Spring | AWS | Terraform
+- 👯 **Looking to collaborate** on Open Source projects
+- 📫 **Reach me at**: marceloamorim.webdev@gmail.com
+- 🎓 **Studying** Computer Science at the University of Brasília (UnB)
+- 🎯 **Currently working as** a backend developer, focusing on **APIs with Java + Spring**
+- 🌐 **Check out my website**: [marcelomamorim.github.io](https://marcelomamorim.github.io/)
 
 ---
 

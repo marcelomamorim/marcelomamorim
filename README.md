@@ -8,15 +8,36 @@ I’m a **Computer Science student** at the **University of Brasília (UnB)**, a
 
 ---
 
+</br>
+
 <div style="display: inline_block" height="70" width="150">
   
-  <a href="https://www.linkedin.com/in/marcelomedeirosamorim/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://medium.com/@marceloamorim.backend" target="_blank"><img align="center" src="https://img.shields.io/badge/-Medium-123?style=for-the-badge&logo=medium&logoColor=white" target="_blank" style="margin-right:100px;"></a>
-  <a href="https://pt.stackoverflow.com/users/276863/marcelo-amorim" target="_blank"><img align="center" src="https://img.shields.io/badge/-StackOverflow-ffff99?style=for-the-badge&logo=stackoverflow&logoColor=black" target="_blank" style="margin-right:100px;"></a>
-  <a href="https://www.credly.com/users/marcelo-medeiros-amorim" target="_blank"><img align="center" src="https://img.shields.io/badge/-Credly-ff6f00?style=for-the-badge&logo=credly&logoColor=white" target="_blank" style="margin-right:100px;"></a>
+  <a href="https://www.linkedin.com/in/marcelomedeirosamorim/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://medium.com/@marceloamorim.backend" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" style="margin-right:10px;">
+  </a>
+  <a href="https://dev.to/marcelomamorim" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" style="margin-right:10px;">
+  </a>
+  <a href="https://hashnode.com/@marceloamorim" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" style="margin-right:10px;">
+  </a>
+  <a href="https://pt.stackoverflow.com/users/276863/marcelo-amorim" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" style="margin-right:10px;">
+  </a>
+  <a href="https://www.credly.com/users/marcelo-medeiros-amorim" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Credly-FF6F00?style=for-the-badge&logo=credly&logoColor=white" style="margin-right:10px;">
+  </a>
 </div>
 
+</br>
+
+
 ---
+
+</br>
 
 ### 🏆 AWS Certifications
 
@@ -38,8 +59,9 @@ Here are my AWS Certifications:
   </tr>
 </table>
 
+</br>
 ---
-
+</br>
 ### 🌐 About me
 
 <div style="display: inline_block"><br>
@@ -49,8 +71,6 @@ Here are my AWS Certifications:
   <img align="center" alt="Terraform" height="30" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
 </div>
 
-</br>
-
 - 🌱 **I’m currently learning**: Java | Spring | AWS | Terraform
 - 👯 **Looking to collaborate** on Open Source projects
 - 📫 **Reach me at**: marceloamorim.webdev@gmail.com
@@ -58,7 +78,9 @@ Here are my AWS Certifications:
 - 🎯 **Currently working as** a backend developer, focusing on **APIs with Java + Spring**
 - 🌐 **Check out my website**: [marcelomamorim.github.io](https://marcelomamorim.github.io/)
 
+</br>
 ---
+</br>
 
 ### 📊 GitHub Activity
 
@@ -71,6 +93,7 @@ Here are my AWS Certifications:
   <img alt="Marcelo Amorim's Activity Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcelomamorim&theme=onedark&hide_border=true" height="232px"/>
 </p>
 
+</br>
 ---
 
 Feel free to explore my repositories and connect with me!

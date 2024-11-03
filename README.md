@@ -72,15 +72,6 @@ Here are my AWS Certifications:
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="left">
-  <img alt="Marcelo Amorim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marcelomamorim&show_icons=true&theme=onedark&hide_border=true" height="160px"/>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomamorim&layout=compact&theme=onedark&hide_border=true" height="160px"/>
-</p>
-
----
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->

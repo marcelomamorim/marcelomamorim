@@ -75,6 +75,10 @@ Here are my AWS Certifications:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Estudando o Padrão Fan-Out com AWS: Um Desafio Prático](https://marceloamorim.hashnode.dev/estudando-o-padrao-fan-out-com-aws-um-desafio-pratico)
+- [Introdução ao Simple Notification Service](https://marceloamorim.hashnode.dev/introducao-ao-amazon-simple-notification-service-sns)
+- [Introdução ao Simple Queue Service](https://marceloamorim.hashnode.dev/introducao-ao-amazon-simple-queue-service-sqs)
+- [Introdução ao AWS Lambda](https://marceloamorim.hashnode.dev/introducao-ao-aws-lambda)
 - [DynamoDB: alguns conceitos importantes](https://marceloamorim.hashnode.dev/dynamodb-alguns-conceitos-importantes)
 - [AWS Certified Solutions Architect Associate: Design de arquiteturas seguras - Parte 1](https://dev.to/marcelomamorim/aws-certified-solutions-architect-associate-design-de-arquiteturas-seguras-parte-1-33je)
 - [Minha Jornada até as Certificações AWS: Dicas e Recursos](https://medium.com/@marceloamorim.backend/minha-jornada-até-as-certificações-aws-dicas-e-recursos-4136b48284a1)

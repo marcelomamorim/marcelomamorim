@@ -46,7 +46,7 @@ I’m a **Computer Science student** at the **University of Brasília (UnB)**, a
 - 📫 **Reach me at**: marceloamorim.webdev@gmail.com
 - 🎓 **Studying** Computer Science at the University of Brasília (UnB)
 - 🎯 **Currently working as** a backend developer, focusing on **APIs with Java + Spring**
-- 🌐 **Check out my website**: [marcelomamorim.github.io](https://marcelomamorim.github.io/)
+- 🌐 **Check out my website**: [From Code to Cloud: Java & AWS](https://marceloamorim.hashnode.dev)
   
 ---
 

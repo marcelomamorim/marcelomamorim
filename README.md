@@ -75,6 +75,7 @@ Here are my AWS Certifications:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Certified Solutions Architect - Associate: preparação](https://marceloamorim.hashnode.dev/aws-certified-solutions-architect-associate-preparacao)
 - [Estudando o Padrão Fan-Out com AWS: Um Desafio Prático](https://marceloamorim.hashnode.dev/estudando-o-padrao-fan-out-com-aws-um-desafio-pratico)
 - [Introdução ao Simple Notification Service](https://marceloamorim.hashnode.dev/introducao-ao-amazon-simple-notification-service-sns)
 - [Introdução ao Simple Queue Service](https://marceloamorim.hashnode.dev/introducao-ao-amazon-simple-queue-service-sqs)

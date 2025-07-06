@@ -66,6 +66,8 @@ Here are my AWS Certifications:
       <a href="https://www.credly.com/badges/c1c9dfcc-8fb1-4a8b-beaf-747f1cdff5f3"><img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" align="left" width="100px"></a>
       <a href="https://www.credly.com/badges/55346236-0df0-4428-84de-b7bc1a69e6a0"><img src="https://images.credly.com/size/340x340/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" alt="AWS Certified Data Engineer – Associate" align="left" width="100px"></a>
       <a href="https://www.credly.com/badges/2346511d-29f0-432a-8b82-59d59db876c6"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" align="left" width="100px"></a>
+      <a href="https://www.credly.com/badges/7f2ccd10-fdbb-44ae-8a1e-4c07bda50260"><img src="https://images.credly.com/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" alt="AWS Certified Machine Learning Engineer – Associate" align="left" width="100px"></a>
+      <a href="https://www.credly.com/badges/6a81b939-c940-4644-8c54-ec1efc6b4dd8"><img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" align="left" width="100px"></a>
     </td>
   </tr>
 </table>

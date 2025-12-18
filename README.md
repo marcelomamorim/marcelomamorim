@@ -1,6 +1,7 @@
-# Hey! 👋 I'm Marcelo Amorim
+# Hey! 👋 I’m Marcelo Amorim
 
-Backend Developer | Computer Science Student @ UnB | AWS Enthusiast
+**Backend Developer** • **Computer Science @ University of Brasília (UnB)** • **AWS Certified (10x)**
+I build **scalable, cloud-native backend systems** with **Java/Spring Boot** and **AWS**, with a strong focus on clean architecture, observability, and reliability.
 
 ---
 
@@ -8,41 +9,40 @@ Backend Developer | Computer Science Student @ UnB | AWS Enthusiast
 
 ```yaml
 role: "Backend Developer"
-focus: ["Java", "Spring Boot", "AWS", "Terraform"]
-education: "Computer Science @ University of Brasília"
-passion: "Building scalable cloud solutions"
+main_stack: ["Java", "Spring Boot", "AWS", "Terraform"]
+currently_learning: ["Microservices", "Event-driven architectures", "IaC at scale"]
+education: "Computer Science @ University of Brasília (UnB)"
+interests: ["Distributed systems", "Cloud architecture", "Fraud prevention", "Data pipelines"]
 ```
 
-- 🔭 Working on cloud-native Java applications
-- 🌱 Learning microservices and infrastructure as code
-- 🏆 10 AWS certifications and counting
-- 📝 Writing about AWS and Java on [my blog](https://marceloamorim.hashnode.dev)
+* 🔭 Building cloud-native backends and APIs (Java + Spring Boot)
+* 🧱 Passionate about architecture, performance, and maintainability
+* 🏆 **10 AWS certifications**
+* 📝 Writing about AWS/Java on my blog: **marceloamorim.hashnode.dev**
 
 ---
 
 ## Tech Stack
 
 <div align="center">
-
-<img alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img alt="Spring" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-<img alt="AWS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-<img alt="Terraform" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
-<img alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-<img alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img alt="PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-<img alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-
+  <img alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="Spring" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img alt="AWS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img alt="Terraform" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
+  <img alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img alt="PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
 ---
 
 ## Featured Projects
 
-- **[RISC-V Assembly Game](https://github.com/marcelomamorim/RISC-V-assembly-game)** - Game in RISC-V assembly
-- **[AWS Solutions Architect Prep](https://github.com/marcelomamorim/preparation-solutions-architect-associate)** - Certification study materials
-- **[Spring Boot APIs](https://github.com/marcelomamorim/bootcamp-01-template-proposta)** - Microservices with Java + Spring
-- **[Oberon Compiler](https://github.com/marcelomamorim/Oberon-Scala)** - Compiler implementation in Scala
+* 🎮 **[RISC-V Assembly Game](https://github.com/marcelomamorim/RISC-V-assembly-game)** — A game built in RISC-V assembly
+* 📚 **[AWS Solutions Architect Prep](https://github.com/marcelomamorim/preparation-solutions-architect-associate)** — Study notes & materials for certification
+* ⚙️ **[Spring Boot APIs](https://github.com/marcelomamorim/bootcamp-01-template-proposta)** — Java/Spring microservices & API templates
+* 🧠 **[Oberon Compiler](https://github.com/marcelomamorim/Oberon-Scala)** — Compiler implementation in Scala
 
 ---
 
@@ -74,7 +74,7 @@ passion: "Building scalable cloud solutions"
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelomedeirosamorim/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@marceloamorim.backend)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://marceloamorim.hashnode.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marceloamorim.webdev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/marcelomedeirosamorim/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat\&logo=medium\&logoColor=white)](https://medium.com/@marceloamorim.backend)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat\&logo=hashnode\&logoColor=white)](https://marceloamorim.hashnode.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:marceloamorim.webdev@gmail.com)

@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+%F0%9F%91%8B+I'm+Marcelo+Amorim;Backend+Developer+%7C+10x+AWS+Certified" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+%F0%9F%91%8B+I'm+Marcelo+Amorim;Backend+Developer+%7C+11x+AWS+Certified" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -37,7 +37,7 @@ interests: [Distributed systems, Cloud architecture, Fraud prevention, Data pipe
 
 - :telescope: Building **cloud-native backends and APIs** with Java + Spring Boot
 - :bricks: Passionate about **architecture, performance, and maintainability**
-- :trophy: Holding **10 AWS certifications** (2 Professional, 1 Specialty)
+- :trophy: Holding **11 AWS certifications** (2 Professional, 2 Specialty)
 - :pencil: Writing about AWS & Java on **[marceloamorim.hashnode.dev](https://marceloamorim.hashnode.dev)**
 - :seedling: Currently diving deeper into **event-driven architectures** and **IaC at scale**
 
@@ -104,17 +104,17 @@ interests: [Distributed systems, Cloud architecture, Fraud prevention, Data pipe
 
 ---
 
-## :medal_sports: AWS Certifications (10x)
+## :medal_sports: AWS Certifications (11x)
 
 <div align="center">
 
 | Professional | Specialty | Associate | Foundational |
 |:---:|:---:|:---:|:---:|
 | <a href="https://www.credly.com/badges/002fb138-1fa6-4c98-82df-da360772c2a9"><img src="https://images.credly.com/size/100x100/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="Solutions Architect Professional" width="75"></a> | <a href="https://www.credly.com/badges/93b6e5a0-fa86-41ed-a9b8-5422dc81f6cd"><img src="https://images.credly.com/size/100x100/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" alt="Security Specialty" width="75"></a> | <a href="https://www.credly.com/badges/d002f657-9188-4585-9b42-430506f153cc"><img src="https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="Solutions Architect Associate" width="75"></a> | <a href="https://www.credly.com/badges/2346511d-29f0-432a-8b82-59d59db876c6"><img src="https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="Cloud Practitioner" width="75"></a> |
-| <a href="https://www.credly.com/badges/3abe3eee-c361-4114-9c85-62ffdce5db13"><img src="https://images.credly.com/size/100x100/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="DevOps Engineer Professional" width="75"></a> | <a href="https://www.credly.com/badges/d76e6fca-8187-4727-aed3-91aaade56668"><img src="https://images.credly.com/size/100x100/images/885d38e4-55c0-4c35-b4ed-694e2b26be6c/image.png" alt="Database Specialty" width="75"></a> | <a href="https://www.credly.com/badges/c1c9dfcc-8fb1-4a8b-beaf-747f1cdff5f3"><img src="https://images.credly.com/size/100x100/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="Developer Associate" width="75"></a> | |
+| <a href="https://www.credly.com/badges/3abe3eee-c361-4114-9c85-62ffdce5db13"><img src="https://images.credly.com/size/100x100/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="DevOps Engineer Professional" width="75"></a> | <a href="https://www.credly.com/badges/d76e6fca-8187-4727-aed3-91aaade56668"><img src="https://images.credly.com/size/100x100/images/885d38e4-55c0-4c35-b4ed-694e2b26be6c/image.png" alt="Database Specialty" width="75"></a> | <a href="https://www.credly.com/badges/c1c9dfcc-8fb1-4a8b-beaf-747f1cdff5f3"><img src="https://images.credly.com/size/100x100/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="Developer Associate" width="75"></a> | <a href="https://www.credly.com/badges/6a81b939-c940-4644-8c54-ec1efc6b4dd8"><img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AI Practitioner" width="75"></a> |
 | | | <a href="https://www.credly.com/badges/55346236-0df0-4428-84de-b7bc1a69e6a0"><img src="https://images.credly.com/size/100x100/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" alt="Data Engineer Associate" width="75"></a> | |
 | | | <a href="https://www.credly.com/badges/7f2ccd10-fdbb-44ae-8a1e-4c07bda50260"><img src="https://images.credly.com/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" alt="Machine Learning Engineer Associate" width="75"></a> | |
-| | | <a href="https://www.credly.com/badges/6a81b939-c940-4644-8c54-ec1efc6b4dd8"><img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AI Practitioner" width="75"></a> | |
+| | | <a href="https://www.credly.com/badges/3a6011be-631c-4f1b-91cf-5fe4c5062880"><img src="https://images.credly.com/size/100x100/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/image.png" alt="CloudOps Engineer Associate" width="75"></a> | |
 
 </div>
 

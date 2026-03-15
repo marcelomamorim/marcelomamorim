@@ -32,7 +32,7 @@ role: Backend Developer
 education: Computer Science @ University of Brasilia (UnB)
 main_stack: [Java, Spring Boot, AWS, Terraform]
 currently_learning: [Microservices, Event-driven architectures, IaC at scale]
-interests: [Distributed systems, Cloud architecture, Fraud prevention, Data pipelines]
+interests: [Distributed systems, Cloud architecture]
 ```
 
 - :telescope: Building **cloud-native backends and APIs** with Java + Spring Boot

@@ -145,6 +145,3 @@ interests: [Distributed systems, Cloud architecture]
 
 ---
 
-<div align="center">
-  <i>"Good programmers write code that humans can understand." - Martin Fowler</i>
-</div>

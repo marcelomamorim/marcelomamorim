@@ -119,8 +119,5 @@ interests: [Distributed systems, Cloud architecture]
 </div>
 
 ---
-
-<br/>
-
 ---
 

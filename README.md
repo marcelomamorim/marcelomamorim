@@ -120,19 +120,6 @@ interests: [Distributed systems, Cloud architecture]
 
 ---
 
-## :bar_chart: GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=marcelomamorim&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelomamorim&theme=github-dark-blue&hide_border=true&background=0d1117"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomamorim&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8"/>
-</div>
-
 <br/>
 
 ---
